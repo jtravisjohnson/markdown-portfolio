@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# list
+
+* Item One
+* Item Two
+* Item Three
+
+- GIT
